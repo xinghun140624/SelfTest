@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RECHARGE</key>
+	<dict>
+		<key>title</key>
+		<string>充值成功</string>
+		<key>actionNames</key>
+		<array>
+			<string>去投资</string>
+		</array>
+	</dict>
+	<key>PERSONAL_REGISTER</key>
+	<dict>
+		<key>actionNames</key>
+		<array>
+			<string>去投资</string>
+			<string>去充值</string>
+		</array>
+		<key>title</key>
+		<string>开通成功</string>
+	</dict>
+	<key>WITHDRAW</key>
+	<dict>
+		<key>title</key>
+		<string>提现成功</string>
+		<key>actionNames</key>
+		<array>
+			<string>去投资</string>
+		</array>
+	</dict>
+	<key>TRANSFER</key>
+	<dict>
+		<key>actionNames</key>
+		<array>
+			<string>我的投资</string>
+			<string>去投资</string>
+		</array>
+		<key>title</key>
+		<string>投资成功</string>
+	</dict>
+	<key>RECHARGE_AUTH_TENDER</key>
+	<dict>
+		<key>actionNames</key>
+		<array>
+			<string>我的投资</string>
+			<string>去投资</string>
+		</array>
+		<key>title</key>
+		<string>投资失败</string>
+	</dict>
+</dict>
+</plist>

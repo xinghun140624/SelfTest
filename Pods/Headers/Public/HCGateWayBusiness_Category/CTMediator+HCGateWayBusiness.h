@@ -1,0 +1,1 @@
+../../../HCGateWayBusiness_Category/HCGateWayBusiness_Category/HCGateWayBusiness_Category/CTMediator+HCGateWayBusiness.h

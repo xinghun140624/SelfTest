@@ -1,0 +1,29 @@
+{
+  "name": "JSToastBusiness",
+  "version": "0.1.0",
+  "summary": "JSToastBusiness.",
+  "description": "this is JSToastBusiness",
+  "homepage": "https://bitbucket.org/iOS_Candy/jstoastbusiness",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Candy": "81990319@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://iOS_Candy@bitbucket.org/iOS_Candy/jstoastbusiness.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "JSToastBusiness/JSToastBusiness/**/*.{h,m}",
+  "resources": "JSToastBusiness/JSToastBusiness/JSToastBusinessImage.bundle",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

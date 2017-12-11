@@ -1,0 +1,28 @@
+{
+  "name": "HC_UserBusiness",
+  "version": "0.0.2",
+  "summary": "HC_UserBusiness.",
+  "description": "this is HC_UserBusiness",
+  "homepage": "https://bitbucket.org/iOS_Candy/hc_userbusiness",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Candy": "81990319@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://iOS_Candy@bitbucket.org/iOS_Candy/hc_userbusiness.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "HC_UserBusiness/HC_UserBusiness/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "YYModel": [
+
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "HC_SettingBusiness",
+  "version": "0.0.1",
+  "summary": "HC_SettingBusiness.",
+  "description": "this is HC_SettingBusiness",
+  "homepage": "https://bitbucket.org/iOS_Candy/hc_settingbusiness",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Candy": "81990319@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://iOS_Candy@bitbucket.org/iOS_Candy/hc_settingbusiness.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "HC_SettingBusiness/HC_SettingBusiness/**/*.{h,m}",
+  "resources": "HC_SettingBusiness/HC_SettingBusiness/HCSettingBusinessImage.bundle",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "YTKNetwork": [
+
+    ],
+    "TPShowMessageBusiness": [
+
+    ],
+    "JS_ColorHexBusiness": [
+
+    ],
+    "HCLoginBusiness_Category": [
+
+    ]
+  }
+}

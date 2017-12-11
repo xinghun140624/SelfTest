@@ -1,0 +1,1 @@
+../../../SCChart/SCChart/SCChart/SCChartDelegate.h

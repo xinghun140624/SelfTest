@@ -1,0 +1,1 @@
+../../../HC_GestureBusiness/HC_GestureBusiness/HC_GestureBusiness/Service/HCSettingGestureService.h

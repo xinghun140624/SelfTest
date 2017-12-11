@@ -1,0 +1,44 @@
+{
+  "name": "HC_MyInvesetmentBusiness",
+  "version": "0.0.1",
+  "summary": "HC_MyInvesetmentBusiness.",
+  "description": "this is HC_MyInvesetmentBusiness",
+  "homepage": "https://bitbucket.org/iOS_Candy/hc_myinvesetmentbusiness",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Candy": "81990319@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://iOS_Candy@bitbucket.org/iOS_Candy/hc_myinvesetmentbusiness.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "HC_MyInvesetmentBusiness/HC_MyInvesetmentBusiness/**/*.{h,m}",
+  "resources": "HC_MyInvesetmentBusiness/HC_MyInvesetmentBusiness/HCMyInvesetmentBusinessImage.bundle",
+  "requires_arc": true,
+  "dependencies": {
+    "JS_ColorHexBusiness": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "YTKNetwork": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "TPShowMessageBusiness": [
+
+    ],
+    "HMSegmentedControl": [
+
+    ]
+  }
+}

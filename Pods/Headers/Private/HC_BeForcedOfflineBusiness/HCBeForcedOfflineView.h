@@ -1,0 +1,1 @@
+../../../HC_BeForcedOfflineBusiness/HC_BeForcedOfflineBusiness/HC_BeForcedOfflineBusiness/View/HCBeForcedOfflineView.h

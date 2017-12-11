@@ -1,0 +1,40 @@
+{
+  "name": "HC_BeForcedOfflineBusiness",
+  "version": "0.0.1",
+  "summary": "HC_BeForcedOfflineBusiness.",
+  "description": "this is HC_BeForcedOfflineBusiness",
+  "homepage": "https://bitbucket.org/iOS_Candy/hc_beforcedofflinebusiness",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Candy": "81990319@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://iOS_Candy@bitbucket.org/iOS_Candy/hc_beforcedofflinebusiness.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "HC_BeForcedOfflineBusiness/HC_BeForcedOfflineBusiness/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "TYAlertController": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YTKNetwork": [
+
+    ],
+    "HCUserBusiness_Category": [
+
+    ],
+    "HCLoginBusiness_Category": [
+
+    ]
+  }
+}
