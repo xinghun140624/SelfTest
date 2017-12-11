@@ -69,6 +69,7 @@
         make.left.mas_equalTo(24.f);
     }];
     
+    
     [self addSubview:self.wechatButton];
     [self addSubview:self.qqButton];
     [self addSubview:self.copyButton];
