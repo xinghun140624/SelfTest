@@ -30,6 +30,7 @@
     if (_allowRotate == 1) {
         return YES;
     }
+    
     return NO;
 }
 - (BOOL)application:(UIApplication *)application shouldAllowExtensionPointIdentifier:(NSString *)extensionPointIdentifier {
