@@ -1,1 +1,0 @@
-../../../SCChart/SCChart/SCChart/SCBar.h

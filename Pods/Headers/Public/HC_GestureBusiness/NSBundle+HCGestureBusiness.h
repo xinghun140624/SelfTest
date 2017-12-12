@@ -1,1 +1,0 @@
-../../../HC_GestureBusiness/HC_GestureBusiness/HC_GestureBusiness/Util/NSBundle+HCGestureBusiness.h
